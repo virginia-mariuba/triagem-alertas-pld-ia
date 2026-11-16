@@ -1,0 +1,91 @@
+id_alerta,data,tipo_operacao,valor,ocupacao,renda_mensal,descricao_alerta,justificativa_cliente,risco_esperado
+AL-0001,2026-07-16,TED,3430.00,Médico(a),24430.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0002,2026-03-23,Saque,7290.00,Professor(a),5460.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0003,2026-07-23,Pix,27740.00,Autônomo(a) no comércio,5320.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0004,2026-04-26,TED,5380.00,Professor(a),4860.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0005,2026-07-25,TED,6240.00,Estudante,1530.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0006,2026-06-04,TED,6830.00,Motorista de aplicativo,4110.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0007,2026-07-15,Pix,29890.00,Professor(a),4940.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0008,2026-05-16,Pix,2240.00,Aposentado(a),3470.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0009,2026-07-05,TED,4800.00,Autônomo(a) no comércio,5300.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0010,2026-07-10,Pix,29760.00,Estudante,1640.00,"Conta recém-aberta recebe vários Pix e saca tudo no mesmo dia, indício de passagem de recursos","Cliente alega ajuda a familiares, sem detalhes",alto
+AL-0011,2026-08-19,Pix,2170.00,Analista administrativo,6360.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0012,2026-07-06,Saque,8100.00,Engenheiro(a),11830.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0013,2026-06-30,TED,17340.00,Motorista de aplicativo,4510.00,Transferência internacional de valor moderado,"Pagamento de curso no exterior, boleto da instituição enviado",medio
+AL-0014,2026-07-26,Depósito,16950.00,Professor(a),5140.00,Depósitos incomuns para o perfil do cliente,"Venda de produtos em feira, sem comprovação formal",medio
+AL-0015,2026-05-28,Pix,82660.00,Estudante,1700.00,"Conta recém-aberta recebe vários Pix e saca tudo no mesmo dia, indício de passagem de recursos","Cliente alega ajuda a familiares, sem detalhes",alto
+AL-0016,2026-03-16,TED,4110.00,Engenheiro(a),11010.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0017,2026-07-06,Pix,2120.00,Analista administrativo,5960.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0018,2026-06-19,TED,17900.00,Médico(a),23540.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0019,2026-06-06,TED,91450.00,Médico(a),27380.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0020,2026-04-29,Pix,119430.00,Motorista de aplicativo,3500.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0021,2026-06-16,Saque,6020.00,Analista administrativo,4970.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0022,2026-07-10,Saque,10140.00,Engenheiro(a),14770.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0023,2026-08-22,Depósito,48730.00,Aposentado(a),3870.00,"Cinco depósitos em espécie logo abaixo do limite de comunicação em 48 horas, possível fracionamento",Cliente não apresentou justificativa,alto
+AL-0024,2026-08-10,TED,7240.00,Médico(a),22210.00,Transferência internacional de valor moderado,"Pagamento de curso no exterior, boleto da instituição enviado",medio
+AL-0025,2026-03-29,TED,5640.00,Motorista de aplicativo,4730.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0026,2026-03-26,Pix,19540.00,Motorista de aplicativo,3230.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0027,2026-04-08,Depósito,48150.00,Motorista de aplicativo,4560.00,"Cinco depósitos em espécie logo abaixo do limite de comunicação em 48 horas, possível fracionamento",Cliente não apresentou justificativa,alto
+AL-0028,2026-07-03,Pix,9380.00,Engenheiro(a),12480.00,Recebimentos de várias pessoas sem relação aparente,Cliente diz organizar um bolão entre amigos,medio
+AL-0029,2026-03-27,Pix,30580.00,Aposentado(a),3340.00,"Conta recém-aberta recebe vários Pix e saca tudo no mesmo dia, indício de passagem de recursos","Cliente alega ajuda a familiares, sem detalhes",alto
+AL-0030,2026-03-06,Pix,9940.00,Aposentado(a),3780.00,Recebimentos de várias pessoas sem relação aparente,Cliente diz organizar um bolão entre amigos,medio
+AL-0031,2026-03-07,Saque,9260.00,Engenheiro(a),10900.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0032,2026-06-02,Pix,11130.00,Motorista de aplicativo,4290.00,Recebimentos de várias pessoas sem relação aparente,Cliente diz organizar um bolão entre amigos,medio
+AL-0033,2026-05-24,TED,100110.00,Autônomo(a) no comércio,6380.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0034,2026-04-28,Pix,42200.00,Autônomo(a) no comércio,7060.00,Aumento súbito de movimentação via Pix,"Cliente abriu um pequeno negócio recentemente, aguardando documentação",medio
+AL-0035,2026-05-11,TED,19810.00,Engenheiro(a),13710.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0036,2026-05-29,TED,8620.00,Engenheiro(a),12350.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0037,2026-04-20,TED,50420.00,Motorista de aplicativo,3570.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0038,2026-08-12,TED,13750.00,Professor(a),4690.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0039,2026-07-01,Pix,37500.00,Médico(a),25580.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0040,2026-09-01,Pix,86500.00,Engenheiro(a),10620.00,"Conta recém-aberta recebe vários Pix e saca tudo no mesmo dia, indício de passagem de recursos","Cliente alega ajuda a familiares, sem detalhes",alto
+AL-0041,2026-04-02,TED,5060.00,Motorista de aplicativo,4330.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0042,2026-07-31,Saque,6880.00,Aposentado(a),3750.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0043,2026-03-04,TED,41790.00,Analista administrativo,5560.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0044,2026-04-19,Depósito,14230.00,Dono(a) de pequeno negócio,17250.00,Depósitos incomuns para o perfil do cliente,"Venda de produtos em feira, sem comprovação formal",medio
+AL-0045,2026-05-01,Pix,129800.00,Professor(a),4280.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0046,2026-03-16,Pix,18010.00,Estudante,1600.00,Recebimentos de várias pessoas sem relação aparente,Cliente diz organizar um bolão entre amigos,medio
+AL-0047,2026-07-11,TED,103350.00,Aposentado(a),3570.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0048,2026-03-05,Saque,9140.00,Analista administrativo,5530.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0049,2026-04-06,Pix,105470.00,Professor(a),5220.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0050,2026-07-14,Pix,35470.00,Dono(a) de pequeno negócio,13120.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0051,2026-03-11,Depósito,15060.00,Dono(a) de pequeno negócio,13090.00,Depósitos incomuns para o perfil do cliente,"Venda de produtos em feira, sem comprovação formal",medio
+AL-0052,2026-03-17,TED,16730.00,Dono(a) de pequeno negócio,12920.00,Transferência internacional de valor moderado,"Pagamento de curso no exterior, boleto da instituição enviado",medio
+AL-0053,2026-05-10,Saque,7200.00,Dono(a) de pequeno negócio,16390.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0054,2026-07-12,Saque,7490.00,Aposentado(a),3370.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0055,2026-06-23,TED,48230.00,Dono(a) de pequeno negócio,18110.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0056,2026-05-01,Pix,17180.00,Médico(a),22590.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0057,2026-04-09,TED,8380.00,Estudante,1750.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0058,2026-06-28,TED,42350.00,Analista administrativo,4950.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0059,2026-08-18,Pix,19880.00,Médico(a),26490.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0060,2026-06-16,Pix,148650.00,Médico(a),27450.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0061,2026-07-20,Pix,1240.00,Motorista de aplicativo,4330.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0062,2026-07-10,Pix,33720.00,Médico(a),21620.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0063,2026-05-07,Depósito,46370.00,Autônomo(a) no comércio,7430.00,"Cinco depósitos em espécie logo abaixo do limite de comunicação em 48 horas, possível fracionamento",Cliente não apresentou justificativa,alto
+AL-0064,2026-08-21,TED,7920.00,Estudante,1730.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0065,2026-07-25,TED,112730.00,Médico(a),20010.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0066,2026-04-16,Pix,3040.00,Motorista de aplicativo,3650.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0067,2026-05-06,Pix,34030.00,Estudante,1840.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0068,2026-03-03,TED,3730.00,Motorista de aplicativo,3630.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0069,2026-04-03,Saque,7610.00,Médico(a),26850.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0070,2026-04-16,TED,4570.00,Motorista de aplicativo,4700.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0071,2026-06-23,Pix,1670.00,Estudante,1590.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0072,2026-05-04,TED,3110.00,Estudante,1480.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0073,2026-06-30,Pix,20680.00,Dono(a) de pequeno negócio,16060.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0074,2026-08-16,TED,13700.00,Motorista de aplicativo,4230.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0075,2026-04-28,TED,5870.00,Dono(a) de pequeno negócio,14600.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0076,2026-04-03,TED,8890.00,Médico(a),27410.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0077,2026-06-06,Pix,1390.00,Médico(a),20140.00,Pagamento de aluguel recorrente a terceiro,"Aluguel mensal, contrato de locação anexado",baixo
+AL-0078,2026-04-17,TED,34070.00,Autônomo(a) no comércio,6760.00,Transferências para jurisdição de atenção (fictícia) sem relação com o perfil do cliente,Cliente não respondeu ao contato,alto
+AL-0079,2026-07-19,TED,19310.00,Professor(a),4300.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0080,2026-05-25,Pix,20490.00,Estudante,1410.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0081,2026-07-08,TED,5620.00,Estudante,1580.00,Transferência entre contas do próprio cliente,Movimentação entre contas de mesma titularidade,baixo
+AL-0082,2026-07-29,Depósito,14300.00,Estudante,1770.00,Depósitos incomuns para o perfil do cliente,"Venda de produtos em feira, sem comprovação formal",medio
+AL-0083,2026-07-28,Pix,21980.00,Estudante,1460.00,Pix recebido acima do padrão do mês,"Venda de veículo usado, contrato de compra e venda anexado",baixo
+AL-0084,2026-07-05,Pix,202520.00,Médico(a),25430.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0085,2026-07-10,Saque,11010.00,Analista administrativo,4510.00,Saque em espécie acima da média,"Pagamento de reforma residencial, notas fiscais disponíveis",baixo
+AL-0086,2026-03-05,Pix,37050.00,Dono(a) de pequeno negócio,17270.00,Aumento súbito de movimentação via Pix,"Cliente abriu um pequeno negócio recentemente, aguardando documentação",medio
+AL-0087,2026-06-01,Pix,102630.00,Motorista de aplicativo,3280.00,Valor recebido muito acima da renda declarada e repassado a terceiros em seguida,"Cliente diz ser empréstimo de um amigo, sem comprovação",alto
+AL-0088,2026-08-08,Pix,65800.00,Aposentado(a),3430.00,"Conta recém-aberta recebe vários Pix e saca tudo no mesmo dia, indício de passagem de recursos","Cliente alega ajuda a familiares, sem detalhes",alto
+AL-0089,2026-03-18,TED,5740.00,Aposentado(a),3060.00,Crédito de 13º salário e férias,"Pagamento do empregador, constam em folha",baixo
+AL-0090,2026-05-04,Depósito,23790.00,Dono(a) de pequeno negócio,13150.00,Depósitos incomuns para o perfil do cliente,"Venda de produtos em feira, sem comprovação formal",medio
